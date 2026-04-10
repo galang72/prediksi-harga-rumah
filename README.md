@@ -32,7 +32,7 @@ Real Estate Prediction adalah aplikasi berbasis web yang dikembangkan menggunaka
 
 1. Clone repository
 ```bash
-git clone https://github.com/username/RealEstatePrediction.git
+git clone https://github.com/galang72/prediksi-harga-rumah.git
 cd RealEstatePrediction
 ```
 
